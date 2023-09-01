@@ -1,3 +1,1 @@
-# thotw
-Thotw Website
-thotw.bad.mn
+http://thotw.bad.mn/
